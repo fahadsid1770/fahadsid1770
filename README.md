@@ -53,23 +53,21 @@ I am primarily interested in the following areas, where I actively engage in res
 
 ## **Technical Skills 🧰**
 
-🔹 **Programming Languages:** Python (NumPy, SciPy, Matplotlib, Pandas, Seaborn), Java, C++  
+🔹 **Programming Languages:** Python (NumPy, SciPy, Matplotlib, Pandas, Seaborn), C++  
 🔹 **Web Development:** JavaScript, TypeScript, Tailwind CSS, FastAPI, Flask, React, Streamlit  
 🔹 **Database:** MySQL, PostgreSQL, MongoDB  
 🔹 **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch  
-🔹 **LLM Application Frameworks:** LangChain, LangGraph, LlamaIndex, LlamaAgents  
+🔹 **LLM Application Frameworks:** LangChain, LangGraph, LlamaIndex, LlamaAgents, CrewAI, Agno, Instruction.  
 🔹 **LLM Evaluation Frameworks:** LangSmith, Langfuse, Ragas, DeepEval  
-🔹 **Vector Database:** AlloyDB for PostgreSQL (pgvector extension), ChromaDB, FAISS  
-🔹 **Cloud Services (Azure):** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage, Azure Boards, Azure Functions, AlloyDB for PostgreSQL  
+🔹 **Vector Database:** AlloyDB for PostgreSQL (pgvector extension), ChromaDB, FAISS, Qdrant, LanceDB  
 🔹 **Cloud Services (AWS):** Elastic Container Registry (ECR), App Runner, Elastic Compute Cloud (EC2), S3 Buckets  
-🔹 **Others:** Prompt Engineering, Context Engineering, Docker, CrewAI, Jira Boards, GitHub, Github Copilot, Microsoft Bot Services, OpenCV, WebSocket, Apache Airflow, Hugging Face Transformers
+🔹 **Others:** Prompt Engineering, Context Engineering, Docker, CrewAI, Jira Boards, GitHub, OpenCV, WebSocket, Apache Airflow, Hugging Face Transformers
 
 
 
 ## Favorite Quote ✨
 
-> "The future of AI is not about creating machines that think like humans, but about building systems that learn from data and improve over time."  
-> — Geoffrey Hinton
+> "Artificial Intelligence is not a substitute for human intelligence; it is a tool to amplify it."
 
 
 ## Github Stats 📊
