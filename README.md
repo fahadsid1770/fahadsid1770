@@ -1,13 +1,11 @@
-<p style="text-align:justify; font-family:'Segoe UI', sans-serif; color:black;">
-  Hi there 🙋‍♀️<br><br>
-I am <strong style="color:#1e40af;">Fahad Siddique Faisal</strong>, currently working as an <strong style="color:#1e40af;">Machine Learning and AI Engineer</strong> at 
-<a href="https://www.waltonhil.com/" style="color:#1e40af;">Walton Hi-Tech Industries PLC</a>. In my professional role, I build <strong style="color:#1e40af;">LLM Agents</strong> and <strong style="color:#1e40af;">Multimodal AI Agents</strong> to automate complex workflows within internal company processes, using <strong style="color:#1e40af;">Google Cloud Platform</strong> for scalable and efficient deployment. I also guide interns on <strong style="color:#1e40af;">requirements analysis</strong>, <strong style="color:#1e40af;">code quality checks</strong>, and following <strong style="color:#1e40af;">best practices</strong> to deliver high-quality AI systems. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
-
-  Previously, I worked as a <strong style="color:#1e40af;">ML/AI Engineer</strong> at 
-  <a href="https://www.linkedin.com/company/ai-solutions-usa/" style="color:#1e40af;">AI Solutions USA</a>, where I developed proof-of-concept prototypes, architected intelligent AI pipelines, and contributed to production-ready AI solutions, gaining hands-on experience with <strong>OpenAI APIs</strong>, <strong>Gemini APIs</strong>, <strong>llama.cpp AI models quatization and processing</strong>, <strong>LanceDB, ChromaDB, Qdrant</strong> for high-performance vector search, and scalable deployments via <strong>Google Cloud run</strong>. I built modular, domain-specific AI pipelines optimized for low-latency inference and production-grade performance.<br>
-  
-  I earned my Bachelor's degree in Electronics and Telecommunication Engineering from 
-<a href="https://cuet.ac.bd/" style="color:#1e40af;">Chittagong University of Engineering and Technology</a>, which laid the foundation for my passion for generative AI application development.
+<p style="text-align:justify; font-family:'Segoe UI', sans-serif; color:black; line-height:1.6;">
+  Hi there 🙋‍♀️ I am <strong style="color:#1e40af;">Fahad Siddique Faisal</strong>, an <strong style="color:#1e40af;">ML/AI Engineer & Researcher</strong> dedicated to building intelligent systems that bridge the gap between complex data and intuitive human interaction. 
+  <br><br>
+  Currently, as a Senior Deputy Assistant Director and ML/AI Specialist at <a href="https://www.waltonhil.com/" style="color:#1e40af;">Walton Hi-Tech Industries PLC</a>, I architect production-grade <strong style="color:#1e40af;">LLM and Multimodal Agents</strong>. My work focuses on automating industrial workflows using frameworks like <strong style="color:#1e40af;">LangGraph, CrewAI, and Agno</strong>, ensuring scalable deployment via <strong style="color:#1e40af;">Google Cloud Platform</strong>. Beyond development, I lead technical teams and mentor interns, fostering a culture of high-quality code and rigorous requirements analysis.
+  <br><br>
+  My technical expertise extends to the full lifecycle of AI, from <strong style="color:#1e40af;">Model Quantization (llama.cpp)</strong> and high-performance <strong style="color:#1e40af;">Vector Search (Qdrant, ChromaDB, LanceDB)</strong> to integrating <strong style="color:#1e40af;">Computer Vision (YOLOv8, CLIP)</strong> with NLP. With a background in Electronics from <a href="https://cuet.ac.bd/" style="color:#1e40af;">CUET</a>, I also specialize in <strong style="color:#1e40af;">Edge AI</strong>, deploying optimized models to hardware using <strong style="color:#1e40af;">TensorFlow Lite Micro</strong> and ESP32.
+  <br><br>
+  Previously, at <strong style="color:#1e40af;">AI Solutions USA</strong>, I built modular AI pipelines and proof-of-concept prototypes leveraging OpenAI and Gemini APIs. Today, I am driven by research in <strong style="color:#1e40af;">LLM Optimization, Human-Computer Interaction (HCI), and Multilingual Understanding</strong>, aiming to create robust AI solutions that solve real-world challenges with precision and empathy.
 </p>
 
 ## **Primary Research Interests 🎯**
