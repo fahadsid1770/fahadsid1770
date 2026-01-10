@@ -1,5 +1,7 @@
 <p style="text-align:justify; font-family:'Segoe UI', sans-serif; color:black; line-height:1.6;">
-  Hi there 🙋‍♀️ I am <strong style="color:#1e40af;">Fahad Siddique Faisal</strong>, an <strong style="color:#1e40af;">ML/AI Engineer & Researcher</strong> dedicated to building intelligent systems that bridge the gap between complex data and intuitive human interaction. 
+  Hi there,
+  <br><br>
+  I am <strong style="color:#1e40af;">Fahad Siddique Faisal</strong>, an <strong style="color:#1e40af;">ML/AI Engineer & Researcher</strong> dedicated to building intelligent systems that bridge the gap between complex data and intuitive human interaction. 
   <br><br>
   Currently, as a Senior Deputy Assistant Director and ML/AI Specialist at <a href="https://www.waltonhil.com/" style="color:#1e40af;">Walton Hi-Tech Industries PLC</a>, I architect production-grade <strong style="color:#1e40af;">LLM and Multimodal Agents</strong>. My work focuses on automating industrial workflows using frameworks like <strong style="color:#1e40af;">LangGraph, CrewAI, and Agno</strong>, ensuring scalable deployment via <strong style="color:#1e40af;">Google Cloud Platform</strong>. Beyond development, I lead technical teams and mentor interns, fostering a culture of high-quality code and rigorous requirements analysis.
   <br><br>
